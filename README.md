@@ -1,1 +1,1 @@
-# student-management-system
+# bank-management-system
